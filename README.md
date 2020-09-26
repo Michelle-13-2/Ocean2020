@@ -1,49 +1,49 @@
 # Ocean2020
 Ocean Speciation UROP 2020 
 
-## Calccomp.ipynb
+Calccomp.ipynb
 
 
-## BinaryV3.ipynb
+BinaryV3.ipynb
 
 
-## TernaryV3.ipynb
+TernaryV3.ipynb
 
 
-## GammaFV3.ipynb
+GammaFV3.ipynb
 
 
-## GammaNV3.ipynb
+GammaNV3.ipynb
 
 
-## GammaIP.ipynb
+GammaIP.ipynb
 
 
-## Thermodatabase1.ipynb
+Thermodatabase1.ipynb
 
 
-## Kthermo.ipynb
+Kthermo.ipynb
 
 
-## Kcond.ipynb
+Kcond.ipynb
 
 
-## GammaTV3.ipynb
+GammaTV3.ipynb
 
 
-## Speciation.ipynb
+Speciation.ipynb
 
 
-## PyCO2SYS.ipynb
+PyCO2SYS.ipynb
 
 
-## SHI_AMI.ipynb
+SHI_AMI.ipynb
 
 
-## SHI_AMI_SCIPT.ipynb
+SHI_AMI_SCIPT.ipynb
 
 
-## Graphs_and_Data.ipynb
+Graphs_and_Data.ipynb
 
 
-## Literature_Graphs.ipynb
+Literature_Graphs.ipynb
